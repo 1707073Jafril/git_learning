@@ -1,0 +1,4 @@
+Some word & term about git & github!
+
+1.Git - Git is an open source & distributed version control system .
+2.
