@@ -1,1 +1,9 @@
 Commad list will be updated from 24.01.2022 insha'Allah
+
+--------- Initializing & Get Connected with git ----
+1. git init 
+Work - Initialization with git
+
+2. git config --global user.name"[username]"
+3. git config --global user.email"[user mail]"
+Work - Get connected with your github account . Please add your username & email instead of [username] and [user email] respectively.
