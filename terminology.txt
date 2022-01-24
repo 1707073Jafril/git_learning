@@ -1,4 +1,7 @@
 Some word & term about git & github!
 
-1.Git - Git is an open source & distributed version control system .
-2.
+1. Git - Git is an open source & distributed version control system .
+2. Github - It is a platform for hosting .
+3. Clone - Import an online version of repo into local file system.
+4. Add - Add any file in a github repository
+5. Push - Sending anything into git repo
